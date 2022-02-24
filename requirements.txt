@@ -1,0 +1,3 @@
+discord.py==1.7.3
+schedule==1.1.0
+Pillow==8.3.1
